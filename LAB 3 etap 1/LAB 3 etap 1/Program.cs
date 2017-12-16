@@ -22,6 +22,7 @@ namespace LAB_3_etap_1
             Autor Doyle = new Autor("Arthur Conan", "Doyle");
 
             Console.WriteLine("---------------------------------------");
+            Console.WriteLine("Git");
 
             Ksiazka k0 = new Ksiazka("Praca zbiorowa", 0, " Wyd. Warszawa", 1961, 200); // ksiazki
             Ksiazka k1 = new Ksiazka("Matematyka dyskretna", 1, " Wyd. Wrocław", 2004, 700); // matematyka
